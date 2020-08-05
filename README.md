@@ -2,10 +2,10 @@
 
 ## I'm a Software Developer!
 
-- 👨‍💻Loves coding!
+- 👨‍ 💻Loves coding!
 - 🌱 I’m currently learning everything 🤣
 - 🚀 2020 Goals: Contribute more to Open Source projects
-- ⚡ Hobbies: 🏋️‍♂️ Fitness, 📚 read programming books, 🧠 learning new think, 🎮 video games
+- ⚡ Hobbies: 🏋️‍♂️ Fitness, 📚 read programming books, 🧠 learning new skills, 🎮 video games
 
 ### Connect with me:
 
